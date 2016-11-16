@@ -1,0 +1,11 @@
+source: ./src
+destination: ./site
+
+# For running locally the path string should be empty.
+path:
+
+# Update this with your client ID.
+# https://developers.google.com/analytics/devguides/reporting/embed/v1/devguide#680061173149-20k08d08kaltq5db1n1ae49nko3vo0tr.apps.googleusercontent.com
+	
+680061173149-nal2qhshj6u0vif93udmkoao74iog3t4.apps.googleusercontent.com
+
